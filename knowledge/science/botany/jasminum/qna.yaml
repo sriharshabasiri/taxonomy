@@ -1,0 +1,19 @@
+created_by: 
+domain: flowers
+seed_examples:
+- answer: |
+  question: how much height Jasminum sambac grows?
+- answer: |  up to 0.5 to 3 m (1.6 to 9.8 ft) in height
+  question: Jasminum sambac is classified under which tribe?
+- answer: | under the genus Jasminum under the tribe Jasmineae.[14] It belongs to the olive family Oleaceae
+  question: how many cultivators are available?
+- answer: | 5, Maid of Orleans , Belle of India, Grand Duke of Tuscany, Mysore Mallige, 'Arabian Nights
+  question: what is chemical composition
+- answer: |Jasminum sambac contains dotriacontanoic acid, dotriacontanol, oleanolic acid, daucosterol, hesperidin, and [+]-jasminoids A, B, C, D in its roots.
+  question: 
+task_description: ' '
+document: 
+ repo: https://github.com/juliadenham/Summit_knowledge
+ commit: afe0558e6aaf5f548a56abb8f9c934951adaa78a
+ patterns:
+   - jasminum_sambac.md
